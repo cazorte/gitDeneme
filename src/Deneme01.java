@@ -3,6 +3,8 @@ public class Deneme01 {
 
     //this features is cretated by anıl
 
+    //step2
+
 
 
 }
